@@ -1,0 +1,12 @@
+[tools]
+chezmoi = "latest"
+gh = "latest"
+node = "latest"
+"npm:@anthropic-ai/claude-code" = "latest"
+starship = "latest"
+usage = "latest"
+zoxide = "latest"
+
+[env]
+GITHUB_USERNAME="zerocity"
+EDITOR="code"
